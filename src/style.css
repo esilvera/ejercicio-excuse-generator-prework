@@ -1,1 +1,35 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: lightslategrey;
+}
+.fondovista {
+  background: white;
+  width: 400px;
+  height: 300px;
+  margin: 50px;
+}
+h1 {
+  background: lightskyblue;
+  font-size: 150%;
+  margin: auto;
+  width: 320px;
+  padding: 15px;
+}
+h2 {
+  color: chocolate;
+  font-size: 110%;
+  margin: auto;
+  width: 320px;
+  height: 80px;
+  padding: 40px;
+}
+.stylo-boton {
+  border-color: green;
+  font-style: oblique;
+  font-size: 15px;
+  color: blue;
+  background-color: lightgrey;
+}
+.excusa-footer {
+  padding: 10px;
+  text-align: center;
+}
